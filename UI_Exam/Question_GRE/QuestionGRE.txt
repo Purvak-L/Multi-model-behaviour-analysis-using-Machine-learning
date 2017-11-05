@@ -1,0 +1,185 @@
+                       <div>
+			<label name="question">1.In a class of 78 students 41 are taking French, 22 are taking German. Of the students taking French or German, 9 are taking both courses. How many students are not enrolled in either course?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:      24  <br>
+				<input type="radio" name="option_selected1" value="B">B:  13 <br>
+				<input type="radio" name="option_selected1" value="C">C:10 <br>
+				<input type="radio" name="option_selected1" value="D"> D:9 <br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+	
+<div>
+			<label name="question">2. v5 percent of 5v5 =<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:  0.05      <br>
+				<input type="radio" name="option_selected1" value="B">B:   0.25<br>
+				<input type="radio" name="option_selected1" value="C">C: 0.01<br>
+				<input type="radio" name="option_selected1" value="D"> D:0.75 <br><br>
+				<input type="hidden" name="corr_opt1" value="B">
+			</div>
+			
+<div>
+			<label name="question">3.  If a² = 12, then a4 =<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A: 144       <br>
+				<input type="radio" name="option_selected1" value="B">B: 75  <br>
+				<input type="radio" name="option_selected1" value="C">C:36 <br>
+				<input type="radio" name="option_selected1" value="D"> D:24 <br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">4.A certain animal in the zoo has consumed 39 pounds of food in six days. If it continues to eat at the same rate, in how many more days will its total consumption be 91 pounds?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:     18   <br>
+				<input type="radio" name="option_selected1" value="B">B:   12<br>
+				<input type="radio" name="option_selected1" value="C">C:8 <br>
+				<input type="radio" name="option_selected1" value="D"> D: 3<br><br>
+				<input type="hidden" name="corr_opt1" value="C">
+			</div>
+			
+<div>
+			<label name="question">5.If the radius of the circle with centre O is 7 and the measure of angle AOB is 100, what is the best approximation to the length of arc AB ?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:      12  <br>
+				<input type="radio" name="option_selected1" value="B">B:  8 <br>
+				<input type="radio" name="option_selected1" value="C">C: 15<br>
+				<input type="radio" name="option_selected1" value="D"> D: 19<br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+
+<div>
+			<label name="question">1.If the product of 6 integers is negative, at most how many of the integers can be negative?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:   3     <br>
+				<input type="radio" name="option_selected1" value="B">B:  5 <br>
+				<input type="radio" name="option_selected1" value="C">C:9 <br>
+				<input type="radio" name="option_selected1" value="D"> D:7 <br><br>
+				<input type="hidden" name="corr_opt1" value="B">
+			</div>
+			
+<div>
+			<label name="question">2. Length of cube is 5, its largest diagnonal is?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:  v75      <br>
+				<input type="radio" name="option_selected1" value="B">B:  v50 <br>
+				<input type="radio" name="option_selected1" value="C">C:v25 <br>
+				<input type="radio" name="option_selected1" value="D"> D: v125<br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">3. What is the greatest of 3 consecutive integers whose sum is 24 ?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:     6   <br>
+				<input type="radio" name="option_selected1" value="B">B:  7 <br>
+				<input type="radio" name="option_selected1" value="C">C: 8<br>
+				<input type="radio" name="option_selected1" value="D"> D:9 <br><br>
+				<input type="hidden" name="corr_opt1" value="D">
+			</div>
+			
+<div>
+			<label name="question">4. x² + 2x - 8 = 0. positive root is?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:   4     <br>
+				<input type="radio" name="option_selected1" value="B">B:  2 <br>
+				<input type="radio" name="option_selected1" value="C">C: -2<br>
+				<input type="radio" name="option_selected1" value="D"> D:-4 <br><br>
+				<input type="hidden" name="corr_opt1" value="B">
+			</div>
+			
+<div>
+			<label name="question">5 For a cylinder, r=2 h=4 , volume is: .<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:  16p      <br>
+				<input type="radio" name="option_selected1" value="B">B: 32p  <br>
+				<input type="radio" name="option_selected1" value="C">C: 64p <br>
+				<input type="radio" name="option_selected1" value="D"> D: 8p<br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">1. Which of the points lie on the line: 2x+y=0<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A: (-1,2)       <br>
+				<input type="radio" name="option_selected1" value="B">B:  (3,4) <br>
+				<input type="radio" name="option_selected1" value="C">C:(0,3) <br>
+				<input type="radio" name="option_selected1" value="D"> D:(2,-1) <br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">2. Slope of the line y= 4/3x+5<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:   3/4     <br>
+				<input type="radio" name="option_selected1" value="B">B:4/3   <br>
+				<input type="radio" name="option_selected1" value="C">C: 5<br>
+				<input type="radio" name="option_selected1" value="D"> D:-5 <br><br>
+				<input type="hidden" name="corr_opt1" value="B">
+			</div>
+			
+<div>
+			<label name="question">3. Diagonal of the cube is 2v 2 , its area is:<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:    6    <br>
+				<input type="radio" name="option_selected1" value="B">B:  3 <br>
+				<input type="radio" name="option_selected1" value="C">C:4 <br>
+				<input type="radio" name="option_selected1" value="D"> D:8 <br><br>
+				<input type="hidden" name="corr_opt1" value="C">
+			</div>
+			
+<div>
+			<label name="question">4. 3x + y = 19 , and x + 3y = 1.
+Find the value of 2x + 2y?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:   20     <br>
+				<input type="radio" name="option_selected1" value="B">B:  40 <br>
+				<input type="radio" name="option_selected1" value="C">C:5 <br>
+				<input type="radio" name="option_selected1" value="D"> D:10 <br><br>
+				<input type="hidden" name="corr_opt1" value="D">
+			</div>
+			
+<div>
+			<label name="question">5. x and y are integers
+x + y < 11 , and x > 6
+What is the smallest possible value of x - y ?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A: 2       <br>
+				<input type="radio" name="option_selected1" value="B">B:  3 <br>
+				<input type="radio" name="option_selected1" value="C">C: 4<br>
+				<input type="radio" name="option_selected1" value="D"> D:5 <br><br>
+				<input type="hidden" name="corr_opt1" value="C">
+			</div>
+			
+<div>
+			<label name="question">1. (3 x 104) + (2 x 10²) + (4 x 10) =<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:   30240       <br>
+				<input type="radio" name="option_selected1" value="B">B: 32000  <br>
+				<input type="radio" name="option_selected1" value="C">C: 34520<br>
+				<input type="radio" name="option_selected1" value="D"> D: 23450<br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">2. 6 people meet for a business lunch. Each person shakes hands once with each other person present. How many handshakes take place?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:     20   <br>
+				<input type="radio" name="option_selected1" value="B">B:  12 <br>
+				<input type="radio" name="option_selected1" value="C">C:15 <br>
+				<input type="radio" name="option_selected1" value="D"> D:16 <br><br>
+				<input type="hidden" name="corr_opt1" value="C">
+			</div>
+			
+<div>
+			<label name="question">3.  If x² - y² = 55, and x - y = 11, then y =?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:     -3   <br>
+				<input type="radio" name="option_selected1" value="B">B:  1 <br>
+				<input type="radio" name="option_selected1" value="C">C:6 <br>
+				<input type="radio" name="option_selected1" value="D"> D:4 <br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
+<div>
+			<label name="question">4.  In a sports club with 30 members, 17 play badminton and 19 play tennis and 2 do not play either. How many members play both badminton and tennis?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:     7   <br>
+				<input type="radio" name="option_selected1" value="B">B:  8 <br>
+				<input type="radio" name="option_selected1" value="C">C:9 <br>
+				<input type="radio" name="option_selected1" value="D"> D:10 <br><br>
+				<input type="hidden" name="corr_opt1" value="B">
+			</div>
+			
+<div>
+			<label name="question">5. Andy solves problems 74 to 125 inclusive in a Math exercise. How many problems does he solve?<br></label><br>
+				<input type="radio" name="option_selected1" value="A">A:      52  <br>
+				<input type="radio" name="option_selected1" value="B">B:   50<br>
+				<input type="radio" name="option_selected1" value="C">C:51 <br>
+				<input type="radio" name="option_selected1" value="D"> D:48 <br><br>
+				<input type="hidden" name="corr_opt1" value="A">
+			</div>
+			
